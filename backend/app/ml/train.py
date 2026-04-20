@@ -3,7 +3,7 @@ import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
-from preprocess import preprocess
+from ml.preprocess import preprocess
 
 TRAINING_DATA = [
     # SUM
