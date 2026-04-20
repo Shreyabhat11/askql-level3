@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 
 // ── Constants ─────────────────────────────────────────────────────────────────
-const API = '';
+const API = "https://askql-level3.onrender.com/";
 
 const INTENT_META = {
   SUM:      { color: '#00d4aa', icon: '∑' },
