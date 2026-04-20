@@ -1,5 +1,5 @@
 
-# 🚀 AskQL 3.0 — Natural Language to SQL using ML + LLM (Hybrid System)
+# 🚀 AskQL 3.0 : Natural Language to SQL using ML + LLM (Hybrid System)
 ![AskQL Banner](assets/banner.png)
 
 AskQL 3.0 is a full-stack application that converts natural language queries into SQL using a **hybrid approach combining Machine Learning and Large Language Models (LLMs)**.
@@ -19,15 +19,32 @@ AskQL 3.0 solves this by combining:
 - **Validation Layer** → Ensures safety and correctness  
 
 ---
+## 🌍 Real-World Relevance
+
+Hybrid NL → SQL systems like AskQL 3.0 reflect how modern data platforms are built:
+
+- Combine structured pipelines with LLMs
+- Use validation layers to prevent unsafe execution
+- Rely on prompt engineering + schema grounding
+
+Similar approaches are used in:
+- BI tools (natural language dashboards)
+- Data copilots
+- Enterprise analytics platforms
+
+---
 
 
 ## 🏗️ Architecture
 
-![Architecture](assets/Architecture.png)
+![Architecture](assets/4.png)
 
-![Architecture](assets/1.png)
-![Architecture](assets/2.png)
-![Architecture](assets/3.png)
+<p align="center">
+  <img src="assets/1.png" width="30%" />
+  <img src="assets/2.png" width="30%" />
+  <img src="assets/3.png" width="30%" />
+</p>
+
 
 ---
 
