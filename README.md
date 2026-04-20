@@ -36,8 +36,9 @@ Similar approaches are used in:
 
 
 ## 🏗️ Architecture
-
-![Architecture](assets/4.png)
+<p align="center">
+  <img src="assets/4.png" width="50%" />
+</p>
 
 <p align="center">
   <img src="assets/1.png" width="30%" />
